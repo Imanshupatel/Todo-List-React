@@ -1,0 +1,19 @@
+.short-container {
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+.grid-three-cols {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
